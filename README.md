@@ -1,4 +1,4 @@
-# mc-vs-qmc
+# Monte Carlo-vs-Quasi-Monte Carlo
 Uncertainty Quantification assignment with Monte Carlo and Quasi-Monte Carlo
 # mc-vs-qmc
 
